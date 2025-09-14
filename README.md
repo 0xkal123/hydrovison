@@ -104,5 +104,4 @@ hydrovison/
 ---
 
 ## 👨‍💻 Author  
-**[Your Name]**  
-AML Course Project – 2025  
+M.LAKSHMI REDDY
